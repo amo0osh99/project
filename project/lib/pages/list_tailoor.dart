@@ -20,7 +20,7 @@ class _TailorMainPageState extends State<TailorMainPage> {
       backgroundColor: Color(0xffffffff),
       appBar: AppBar(
         elevation: 0,
-        title: Text("Home Page"),
+        title: Text("Home K Page"),
         backgroundColor: Colors.yellow[900],
         // leading: IconButton(
         //   onPressed: () {
